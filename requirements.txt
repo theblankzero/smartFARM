@@ -1,0 +1,8 @@
+flask
+supabase
+tensorflow
+scikit-learn
+pandas
+numpy
+joblib
+kagglehub
